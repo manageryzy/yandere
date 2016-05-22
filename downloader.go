@@ -79,10 +79,17 @@ func downloadWorker(){
 		println("worker exit")
 	}()
 
-	x := 0
-	x, jobs = jobs[len(jobs)-1], jobs[:len(jobs)-1]
+	for{
+		if len(jobs)==0{
+			continue
+		}
+		
+		x := 0
+		x, jobs = jobs[len(jobs)-1], jobs[:len(jobs)-1]
 
-	downloadImage(x)
+		downloadImage(x)
+	}
+
 }
 
 

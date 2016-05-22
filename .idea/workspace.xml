@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fabeea8d-9053-4ec6-a8dd-8725805f4cb2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__yandere_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__yandere_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/downloader.go" afterPath="$PROJECT_DIR$/downloader.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yandere.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +31,8 @@
       <file leaf-file-name="downloader.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/downloader.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4864865">
-              <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.6469595">
+              <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
               <folding>
                 <element signature="e#14#115#0" expanded="true" />
               </folding>
@@ -444,12 +441,12 @@
       <option name="number" value="Default" />
       <updated>1463820268893</updated>
       <workItem from="1463820273003" duration="5231000" />
-      <workItem from="1463931002590" duration="3060000" />
+      <workItem from="1463931002590" duration="3723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8291000" />
+    <option name="totallyTimeSpent" value="8954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -530,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/downloader.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4864865">
-          <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.6469595">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
           <folding>
             <element signature="e#14#115#0" expanded="true" />
           </folding>
