@@ -103,6 +103,7 @@
       <root url="file://$PROJECT_DIR$/../../beego/x2j/.git" />
       <root url="file://$PROJECT_DIR$/../../mattn/go-sqlite3/.git" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/cmd/guru/testdata" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../skratchdot/open-golang/.git" />
       <root url="file://$PROJECT_DIR$/../../golang/lint/.git" />
       <root url="file://$PROJECT_DIR$" />
